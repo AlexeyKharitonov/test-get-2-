@@ -6,3 +6,9 @@
 5. git push [rep.link] [branch_name]
    git remote (ссылка на репозиторий)
    git branch (текущая ветка)
+
+---
+
+- git reset [files] - удаляет файлы из stage
+- git diff - показывает построчно внесенные изменения
+- git reset --hard (сбрасывает изменения во всех файлах)
