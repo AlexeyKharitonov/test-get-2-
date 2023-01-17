@@ -4,3 +4,5 @@
 3. git commit -m "comment"
 4. git log (подробн инфа) / git log --oneline (краткая)
 5. git push [rep.link] [branch_name]
+   git remote (ссылка на репозиторий)
+   git branch (текущая ветка)
